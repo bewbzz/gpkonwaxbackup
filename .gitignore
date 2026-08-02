@@ -1,1 +1,3 @@
-mirror/gpk-image-mirror.zip*.zip
+mirror/gpk-image-mirror.zip  
+*.zip  
+.wrangler/ 
